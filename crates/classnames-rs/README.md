@@ -263,7 +263,7 @@ cargo test readme_examples
 
 **Important Note**: This library has **runtime overhead** for conditional evaluations. The macro generates code that performs condition checks at runtime.
 
-**For zero runtime overhead**, consider using [classnames-const-rs](https://github.com/your-org/classnames-const-rs) which provides compile-time class name resolution for static use cases.
+**For zero runtime overhead**, consider using [classnames-const-rs](https://crates.io/crates/classnames-const-rs) which provides compile-time class name resolution for static use cases.
 
 ### Performance Characteristics:
 - ✅ **Macro expansion**: Zero overhead (compile-time)
