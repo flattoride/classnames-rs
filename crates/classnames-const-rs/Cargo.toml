@@ -1,0 +1,9 @@
+[package]
+name = "classnames-const-rs"
+version = "0.1.0"
+edition = "2024"
+documentation = "https://docs.rs/classnames-const-rs"
+
+[dependencies]
+const_format = {version = "0.2.34", features = ["rust_1_64"]}
+constcat = "0.6.1"

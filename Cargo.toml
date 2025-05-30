@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "crates/classnames-const-rs",
+    "crates/classnames-rs",
+]
+resolver = "2"
