@@ -3,6 +3,9 @@ edition = "2021"
 name = "classnames-rs"
 version = "0.1.0"
 documentation = "https://docs.rs/classnames-rs"
+description = "A Rust implementation of the classnames utility for conditionally joining class names."
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/flattoride/classnames-rs/tree/main/crates/classnames-rs"
 
 [dependencies]
 proc-macro2 = "1.0"
